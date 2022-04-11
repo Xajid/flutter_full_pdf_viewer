@@ -1,3 +1,6 @@
+## 1.0.7
+Adding null safety support
+
 ## 1.0.6
 Bugfix for iOS. PDFs will now be shown also on physical devices
 
